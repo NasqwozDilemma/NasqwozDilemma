@@ -8,12 +8,6 @@
 
 <h1 align="center">Привет👋 меня зовут Дмитрий!</h1>
 
-![](https://komarev.com/ghpvc/?username=NasqwozDilemma)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=NasqwozDilemma&theme=nord&hide_border=true&locale=ru&card_width=840&card_height=200)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NasqwozDilemma&hide_border=true&show_icons=true&theme=nord&card_width=470&card_height=200)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NasqwozDilemma&hide_border=true&layout=compact&theme=nord&card_width=370&card_height=200)
-
 <div align="center">
   <a href="https://t.me/NasqwozDilemma" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
@@ -24,7 +18,7 @@
 
 <h3 align="left">👩‍💻  Обо мне</h3>
 
-<p align="left"><img height="30" width="60" src="https://camo.githubusercontent.com/5e7db7b3e85cae70afcbb89a825f85d9e093d7eb295026395e463ab22ca92688/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6c6170746f705f706172726f742e676966"/> Backend разработчик. <img height="30" width="60" src="https://camo.githubusercontent.com/d0839caaee087179aed17073b0e759f641b661c0cab81ef95e9846975c2091f8/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f3630667073706172726f742e676966"/></p>
+<p align="left"><img height="30" width="60" src="https://camo.githubusercontent.com/5e7db7b3e85cae70afcbb89a825f85d9e093d7eb295026395e463ab22ca92688/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6c6170746f705f706172726f742e676966"/> Проживаю в Москве, хотя сам родом с Мурманска. Изучаю программирование и все, что с ним связано, и достигаю новых высот. <img height="30" width="60" src="https://camo.githubusercontent.com/5e7db7b3e85cae70afcbb89a825f85d9e093d7eb295026395e463ab22ca92688/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6c6170746f705f706172726f742e676966"/></p>
 
 ### 🛠 Технологии
 
