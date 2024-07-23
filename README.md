@@ -6,7 +6,13 @@
 
 
 
-<h1 align="center">Привет👋 Меня зовут Дмитрий!</h1>
+<h1 align="center">Привет👋 меня зовут Дмитрий!</h1>
+
+![](https://komarev.com/ghpvc/?username=NasqwozDilemma)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=NasqwozDilemma&theme=nord&hide_border=true&locale=ru&card_width=840&card_height=200)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NasqwozDilemma&hide_border=true&show_icons=true&theme=nord&card_width=470&card_height=200)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NasqwozDilemma&hide_border=true&layout=compact&theme=nord&card_width=370&card_height=200)
 
 <div align="center">
   <a href="https://t.me/NasqwozDilemma" target="_blank">
